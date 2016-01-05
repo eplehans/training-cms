@@ -24,7 +24,7 @@ The training program is a rough sketch which aims at setting a weekly load so	 t
 | 12 (21-27 mar)| Rest | dd  | dd  | dd  | dd  | dd  | dd  | 3  |
 | 13 (28-03 mar/apr)| Rest | dd  | dd  | dd  | dd  | dd  | dd  | 3  |
 | 14 (04-10 apr)| Rest | dd  | dd  | dd  | dd  | dd  | dd  | 3  |
-| 15 (11-17 apr)| Rest | dd  | dd  | dd  | dd  | dd  | dd  | 3  |
+| 15 (11-17 apr)| Rest | dd  | Race day  | rest  | rest  | rest  | rest  | ?  |
 
 **Key**
 (HMP) Marathon Pace: the pace/effort you can hold in a half marathon.
