@@ -5,7 +5,7 @@ published: false
 
 |     Week    | Mon  | Tue | Wed | Thu | Fri | Sat | Sun | Intensity(1-5) |
 |:-----------:|:----:|:---:|:---:|:---:|:---:|:---:|:---:|:--------------:|
-| 1           | Rest | dd  | dd  | dd  | dd  | dd  | 3hr run / ~ 25km  | 1  | 
+| 1           | Rest | dd  | Easy 8km run  | dd  | dd  | dd  | 3hr run / ~ 25km  | 1  | 
 | 2           | Rest | dd  | dd  | dd  | dd  | dd  | 3hr run / ~ 25km  | 2  | 
 | 3           | Rest | dd  | dd  | dd  | dd  | dd  | 3.5hr run / ~ 30km  | 3  | 
 | 4           | Rest | dd  | dd  | dd  | dd  | dd  | dd  | 1  | 
