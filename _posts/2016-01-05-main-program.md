@@ -2,6 +2,11 @@
 published: false
 ---
 
+The main focus for this training program is to set a best-case scenario to train for a 50km ultra. In my case it will be Ultrafjord in Patagonia, Chile, 14.04.2016.
+
+The training program is a rough sketch which aims at setting a weekly load so that my day-to-day form can choose what to do. Epic training sessions will be blogged about and linked to from the program.  
+
+###Program (starts 04.01.2016):
 
 |     Week    | Mon  | Tue | Wed | Thu | Fri | Sat | Sun | Intensity(1-5) |
 |:-----------:|:----:|:---:|:---:|:---:|:---:|:---:|:---:|:--------------:|
