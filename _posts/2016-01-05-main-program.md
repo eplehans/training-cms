@@ -4,7 +4,7 @@ published: false
 
 
 |     Week    | Mon  | Tue | Wed | Thu | Fri | Sat | Sun | Intensity(1-5) |
-|:-----------:|:----:|:---:|:---:|:---:|:---:|:---:|:---:|:--------:|
+|:-----------:|:----:|:---:|:---:|:---:|:---:|:---:|:---:|:--------------:|
 | 1           | Rest | dd  | dd  | dd  | dd  | dd  | dd  | 1  | 
 | 2           | Rest | dd  | dd  | dd  | dd  | dd  | dd  | 2  | 
 | 3           | Rest | dd  | dd  | dd  | dd  | dd  | dd  | 3  | 
