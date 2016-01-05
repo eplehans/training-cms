@@ -10,7 +10,7 @@ The training program is a rough sketch which aims at setting a weekly load so	 t
 
 |     Week     | Mon  | Tue | Wed | Thu | Fri | Sat | Sun | Intensity(1-5) |
 |:------------:|:----:|:---:|:---:|:---:|:---:|:---:|:---:|:--------------:|
-| 1 (04-10 jan)| Rest | dd  | Easy 8km run  | dd  | dd  | dd  | 3hr run / ~ 25km|
+| 1 (04-10 jan)| 12km easy | 10km 10% incline  | Strength  | dd  | dd  | dd  | 3hr run / ~ 25km| 1  |
 | 2 (11-17 jan)| Rest | dd  | dd  | dd  | dd  | dd  | 3hr run / ~ 25km  | 2  | 
 | 3 (18-24 jan)| Rest | dd  | dd  | dd  | dd  | dd  | 3.5hr run / ~ 30km  | 3  | 
 | 4 (25-31 jan)| Rest | dd  | dd  | dd  | dd  | dd  | dd  | 1  | 
