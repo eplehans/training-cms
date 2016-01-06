@@ -4,7 +4,8 @@ published: false
 
 The main focus for this training program is to set a best-case scenario to train for a 50km ultra. In my case it will be Ultrafjord in Patagonia, Chile, 14.04.2016.
 
-The training program is a rough sketch which aims at setting a weekly load so	 that my day-to-day form can choose what to do. I take a 4 week approach where week 1 is easy, week 2 is harder, week 3 is hard and week 4 is rest. The next week 1 will be the same as the load in the past week 2 etc..
+The training program is a rough sketch which aims at setting a weekly load so	 that my day-to-day form can choose what to do. I take a 4 week approach where week 1 is easy, week 2 is harder, week 3 is hard and week 4 is rest. 
+The next 4 week cycle the week 1 will be the same as the load in the past week 2 etc..
 
 Epic training sessions will be blogged about and linked to from the program.
 
